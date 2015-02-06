@@ -2,8 +2,8 @@
 ### Running
 In a terminal *gcc mergeSortFork.c -o merge*
 
-*./merge* Sorts values ​​randomly 
+*./merge* : sorts some values randomly generated
 
-*./merge -n* Sorts n values randomly generated
+*./merge -n* : sorts "n" values randomly generated
 
-*./merge -f data.txt*/ Sorts values stored in a file **(one value per line)**
+*./merge -f data.txt* : sorts some values stored in a file **(one value per line)**
